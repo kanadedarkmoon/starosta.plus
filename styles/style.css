@@ -1,6 +1,8 @@
 body {
-    background: url(../images/2d.jpg) center center  no-repeat fixed ;
+    background: center center  no-repeat fixed ;
     background-size: cover;
+    background-color:#c1dfe1;
+
 }
 #side-checkbox {
     display: none;
